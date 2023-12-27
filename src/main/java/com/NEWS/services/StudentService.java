@@ -1,9 +1,11 @@
 
-package com.prueba.demo.Entities;
+package com.NEWS.services;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
+
+import com.NEWS.news.Entities.Student;
 
 /**
  * StudentService

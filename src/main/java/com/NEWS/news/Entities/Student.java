@@ -1,4 +1,4 @@
-package com.prueba.demo.Entities;
+package com.NEWS.news.Entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
