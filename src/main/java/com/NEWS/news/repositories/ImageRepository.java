@@ -1,9 +1,9 @@
 
-package com.NEWS.repositories;
+package com.NEWS.news.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.NEWS.Entities.Image;
+import com.NEWS.news.Entities.Image;
 
 public interface ImageRepository extends JpaRepository<Image, Long> {
 

@@ -1,4 +1,4 @@
-package com.NEWS.Entities;
+package com.NEWS.news.Entities;
 
 import jakarta.persistence.Basic;
 import jakarta.persistence.Entity;
